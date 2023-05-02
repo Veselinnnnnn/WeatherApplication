@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/settingsContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="gone"
+    android:background="@drawable/gradient_light_mode_bg">
+
+    <Switch
+        android:id="@+id/switch_background"
+        android:layout_marginTop="50dp"
+        android:padding="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dark_mode"
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        android:checked="false"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+
+    <LinearLayout
+        android:padding="25dp"
+        android:layout_marginTop="100dp"
+        android:id="@+id/languageRow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:clickable="true"
+        android:onClick="showLanguagePicker"
+        android:focusable="true">
+
+        <TextView
+            android:id="@+id/languageLabel"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/change_language"/>
+
+        <TextView
+            android:id="@+id/languageCode"
+            android:layout_width="0dp"
+            android:gravity="end"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

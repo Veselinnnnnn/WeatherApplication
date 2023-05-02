@@ -1,0 +1,24 @@
+<resources>
+    <string name="location">Location</string>
+    <string name="update_at">Update at</string>
+    <string name="clear_sky">Clear sky</string>
+    <string name="c">°C</string>
+    <string name="min_temp">Min temp</string>
+    <string name="max_temp">Max temp</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidify">Humidify</string>
+    <string name="created_by">Created by</string>
+    <string name="veskou">Veskou</string>
+    <string name="settings">Settings</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="weather">Weather</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="select_language">Select language</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="change_language">Change language</string>
+    <string name="none">None</string>
+</resources>

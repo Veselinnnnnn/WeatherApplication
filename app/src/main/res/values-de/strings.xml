@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="location">Ort</string>
+    <string name="update_at">Aktualisieren um</string>
+    <string name="clear_sky">Klarer Himmel</string>
+    <string name="c">°C</string>
+    <string name="min_temp">Min. Тemp</string>
+    <string name="max_temp">Max. Temp</string>
+    <string name="sunrise">Sonnenauf…</string>
+    <string name="sunset">Sonnenun…</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Druck</string>
+    <string name="humidify">Befeuchten</string>
+    <string name="created_by">Erstellt von</string>
+    <string name="veskou">Veskou</string>
+    <string name="settings">Einstellungen</string>
+    <string name="enter_city_name">Stadtnamen eingeben</string>
+    <string name="weather">Wetter</string>
+    <string name="dark_mode">Dunkelmodus</string>
+    <string name="select_language">Sprache auswählen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="ok">Okay</string>
+    <string name="change_language">Sprache ändern</string>
+    <string name="none">Keine</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="location">Местоположение</string>
+    <string name="update_at">Обновить в</string>
+    <string name="clear_sky">Чистое небо</string>
+    <string name="c">°C</string>
+    <string name="min_temp">Мин. темп.</string>
+    <string name="max_temp">Макс. темп</string>
+    <string name="sunrise">Восход сол…</string>
+    <string name="sunset">Закат</string>
+    <string name="wind">Ветер</string>
+    <string name="pressure">Давление</string>
+    <string name="humidify">Увлажнение</string>
+    <string name="created_by">Кто создал</string>
+    <string name="veskou">Вескоу</string>
+    <string name="settings">Настройки</string>
+    <string name="enter_city_name">Введите название города</string>
+    <string name="weather">Погода</string>
+    <string name="dark_mode">Темный режим</string>
+    <string name="select_language">Выбрать язык</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">Хорошо</string>
+    <string name="change_language">Изменить язык</string>
+    <string name="none">Нет</string>
+</resources>
