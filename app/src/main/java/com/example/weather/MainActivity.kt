@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
     var city: String = "sofia,bg"
 
     // This key is for weather and it's from openweathermap.org
-    val api: String = "08e4af750d42b87ff1af1affee2ce3ee"
+    val api: String // gitGuard caught it and I had to remove the value
 
     private lateinit var leftIcon: ImageView
     private lateinit var rightIcon: ImageView
